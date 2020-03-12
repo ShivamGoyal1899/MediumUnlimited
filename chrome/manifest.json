@@ -1,0 +1,21 @@
+{
+    "name": "UnlimitedMedium",
+    "version": "3.5.0",
+    "description": "Read Medium for Free.",
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "manifest_version": 2
+}
