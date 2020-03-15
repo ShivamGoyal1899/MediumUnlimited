@@ -8,16 +8,14 @@
     <img src="https://img.shields.io/github/license/ShivamGoyal1899/MediumUnlimited?style=for-the-badge" alt="MediumUnlimited is released under the BSD 3-Clause License." />
   </a>
   <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
-    <img src="https://img.shields.io/github/v/release/ShivamGoyal1899/MediumUnlimited?style=for-the-badge" alt="Latest Version Available." />
+    <img src="https://img.shields.io/github/v/release/ShivamGoyal1899/MediumUnlimited?style=for-the-badge" alt="Latest Version Available for Chrome." />
   </a>
-  <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/archive/master.zip">
-    <img src="https://img.shields.io/github/repo-size/ShivamGoyal1899/MediumUnlimited?style=for-the-badge" alt="GitHub Repository size." />
+  <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
+    <img src="https://img.shields.io/amo/v/mediumunlimited?style=for-the-badge" alt="Latest Version Available for Firefox." />
   </a>
   <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
     <img src="https://img.shields.io/github/downloads/ShivamGoyal1899/MediumUnlimited/total?style=for-the-badge" alt="Total downloads on GitHub." />
   </a>
-  <a href="https://paypal.me/shivamgoyal1899">
-    <img src="https://img.shields.io/badge/Sponsor-Paypal-informational?style=for-the-badge&logo=paypal" alt="Sponsor on PayPal." />
   </a>
 </p>
 <p align="center">
@@ -46,8 +44,8 @@ Show some love 💜 and Star ⭐️ the Repository to support the project.
 You can get the MediumUnlimited up and running on your browser in less than 5 minutes with these steps:
 
 1. **Download the Extension / Add-on binary from GitHub Release.**  
-  Chrome: [Download](https://github.com/ShivamGoyal1899/MediumUnlimited/releases/download/v3.5.0-chrome/MediumUnlimited-3.5.0-chrome.crx)  
-  Firefox: [Download](https://github.com/ShivamGoyal1899/MediumUnlimited/releases/download/v3.5.0-firefox/MediumUnlimited-3.5.0-firefox.xpi)
+  Chrome: [Download](https://github.com/ShivamGoyal1899/MediumUnlimited/releases/download/v3.5.1-chrome/MediumUnlimited-3.5.1-chrome.crx)  
+  Firefox: [Download](https://addons.mozilla.org/en-US/firefox/addon/mediumunlimited/)
 
 2. **Follow the instructions here.**  
   Chrome: [Instructions](https://www.mattcutts.com/blog/how-to-install-a-chrome-extension-from-github/)  
@@ -73,6 +71,12 @@ Thanks to all contributors and to sponsors for supporting the project.
   </a>
   <a href="https://www.patreon.com/bePatron?u=31786845" target="_blank">
     <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="30">
+  </a>
+  <a href="https://www.paypal.me/shivamgoyal1899" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_l.png" alt="Pay with PayPal!" height="30">
+  </a>
+  <a href="https://opencollective.com/shivamgoyal" target="_blank">
+    <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" height="30">
   </a>
 </p>
 
