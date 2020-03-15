@@ -10,7 +10,7 @@
   <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
     <img src="https://img.shields.io/github/v/release/ShivamGoyal1899/MediumUnlimited?style=for-the-badge" alt="Latest Version Available for Chrome." />
   </a>
-  <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/mediumunlimited/">
     <img src="https://img.shields.io/amo/v/mediumunlimited?style=for-the-badge" alt="Latest Version Available for Firefox." />
   </a>
   <a href="https://github.com/ShivamGoyal1899/MediumUnlimited/releases">
