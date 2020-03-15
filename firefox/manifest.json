@@ -1,6 +1,6 @@
 {
-    "name": "UnlimitedMedium",
-    "version": "3.5.0",
+    "name": "MediumUnlimited",
+    "version": "3.5.1",
     "description": "Read Medium for Free.",
     "background": {
         "scripts": [
@@ -17,5 +17,10 @@
         "48": "icon48.png",
         "128": "icon128.png"
     },
-    "manifest_version": 2
+    "manifest_version": 2,
+    "applications": {
+        "gecko": {
+            "id": "mediumunlimited@itsshivam.com"
+        }
+    }
 }
