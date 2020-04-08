@@ -78,4 +78,8 @@ Thanks to all contributors and to sponsors for supporting the project.
 </p>
 
 ## :warning: Disclaimer
-As [notified by Medium Staff](https://twitter.com/ev/status/1100899021621583872), this is an intended feature and not a bug.
+As [notified by Medium Staff](https://twitter.com/ev/status/1100899021621583872), this is an intended feature and not a bug. However, Medium really wants those users and views to come from twitter. Falsifying source-identifying information is against Medium's terms of service.
+
+MediumUnlimited is only for educational purpose and does not intend to infringe any of the policies or Terms of Service for using Medium.
+
+If any infringement of policies are found, feel free to notify me.
