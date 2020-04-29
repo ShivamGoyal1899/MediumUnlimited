@@ -73,7 +73,7 @@ chrome.webRequest.onBeforeSendHeaders.addListener(
       '*://engineering.opsgenie.com/*',
       '*://instagram-engineering.com/*',
       '*://calia.me/*',
-
+      '*://becominghuman.ai/*',
     ]
   },
   [

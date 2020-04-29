@@ -42,7 +42,7 @@ Show some love 💜 and Star ⭐️ the Repository to support the project.
 ## :rocket: Installing MediumUnlimited
 
 ### Google Chrome
-- Download the Chrome Extension from GitHub Release. [Download](https://github.com/ShivamGoyal1899/MediumUnlimited/releases/download/v3.5.1-chrome/MediumUnlimited-3.5.1-chrome.crx)
+- Download the Chrome Extension from GitHub Release. [Download](https://github.com/ShivamGoyal1899/MediumUnlimited/releases/download/v3.6.2-chrome/MediumUnlimited-3.6.2-chrome.crx)
 - Follow the installation instructions. [Instructions](https://www.mattcutts.com/blog/how-to-install-a-chrome-extension-from-github/)
 
 ### Mozilla Firefox
