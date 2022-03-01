@@ -55,7 +55,7 @@ This extension modifies the [referer](https://developer.mozilla.org/en-US/docs/W
 I've used [Semantic Versioning 2.0.0](https://semver.org/) for versioning throughout the project.
 
 ## :question: Queries / Bugs
-If you got any queries or found a bug, open an [Issue](https://github.com/ShivamGoyal1899/MediumUnlimited/issues/new) or ping me over on [hi@itsshivam.com](mailto:hi@itsshivam.com)
+If you got any queries or found a bug, open an [Issue](https://github.com/ShivamGoyal1899/MediumUnlimited/issues/new) or ping me over on [hey@goyalshivam.com](mailto:hey@goyalshivam.com)
 
 ## :memo: License
 Licensed under the [BSD 3-Clause](./LICENSE).
